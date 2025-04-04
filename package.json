@@ -1,0 +1,20 @@
+{
+  "name": "tp4_modulos_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markoss5/TP4_Modulos_Node_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Markoss5/TP4_Modulos_Node_JS/issues"
+  },
+  "homepage": "https://github.com/Markoss5/TP4_Modulos_Node_JS#readme"
+}
